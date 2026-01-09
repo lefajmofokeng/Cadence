@@ -6,7 +6,7 @@
 
 ## Live Preview 
 
-[View Demo](https://thisislefa.github.io/Cadence)  
+[View Demo](https://lefajmofokeng.github.io/Cadence)  
 
 
 ## Core Design Principles
@@ -310,6 +310,7 @@ Create `package.json`:
 ## License
 
 MIT License – free for personal and commercial use with attribution.
+
 
 
 
